@@ -15,7 +15,7 @@
 
 - 🎓 Second-year B.Tech CSE student
 - 🧠 Passionate about Artificial Intelligence and Machine Learning  
-- 📚 Currently learning Python, C, HTML, CSS  
+- 📚 Currently learning Python, C, HTML, CSS, JavaScript 
 - 🛠️ Love building beginner-friendly, impactful projects  
 - 🌱 Learning something new every day!
 
@@ -35,8 +35,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantthakur&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantthakur&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sushantthakur&show_icons=true&theme=radical" height="180"/>
 </p>
 
 ---
